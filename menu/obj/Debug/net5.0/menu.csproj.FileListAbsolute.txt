@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/bin/Debug/net5.0/menu.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/bin/Debug/net5.0/menu.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/bin/Debug/net5.0/menu.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/bin/Debug/net5.0/menu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/bin/Debug/net5.0/ref/menu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/bin/Debug/net5.0/menu.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/ref/menu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/menu/obj/Debug/net5.0/menu.genruntimeconfig.cache

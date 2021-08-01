@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/bin/Debug/net5.0/greeting.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/bin/Debug/net5.0/greeting.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/bin/Debug/net5.0/greeting.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/bin/Debug/net5.0/greeting.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/bin/Debug/net5.0/ref/greeting.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/bin/Debug/net5.0/greeting.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/ref/greeting.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/greeting/obj/Debug/net5.0/greeting.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/bin/Debug/net5.0/learning.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/bin/Debug/net5.0/learning.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/bin/Debug/net5.0/learning.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/bin/Debug/net5.0/learning.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/bin/Debug/net5.0/ref/learning.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/bin/Debug/net5.0/learning.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/ref/learning.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/obj/Debug/net5.0/learning.genruntimeconfig.cache

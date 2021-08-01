@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/bin/Debug/net5.0/divisor.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/bin/Debug/net5.0/divisor.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/bin/Debug/net5.0/divisor.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/bin/Debug/net5.0/divisor.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/bin/Debug/net5.0/ref/divisor.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/bin/Debug/net5.0/divisor.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/ref/divisor.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/divisor/obj/Debug/net5.0/divisor.genruntimeconfig.cache

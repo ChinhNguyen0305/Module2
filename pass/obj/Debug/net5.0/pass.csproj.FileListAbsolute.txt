@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/bin/Debug/net5.0/pass.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/bin/Debug/net5.0/pass.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/bin/Debug/net5.0/pass.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/bin/Debug/net5.0/pass.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/bin/Debug/net5.0/ref/pass.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/bin/Debug/net5.0/pass.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/ref/pass.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/pass/obj/Debug/net5.0/pass.genruntimeconfig.cache

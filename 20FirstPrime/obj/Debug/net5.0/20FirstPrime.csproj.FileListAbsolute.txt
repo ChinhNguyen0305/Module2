@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/bin/Debug/net5.0/20FirstPrime.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/bin/Debug/net5.0/20FirstPrime.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/bin/Debug/net5.0/20FirstPrime.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/bin/Debug/net5.0/20FirstPrime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/bin/Debug/net5.0/ref/20FirstPrime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/bin/Debug/net5.0/20FirstPrime.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/ref/20FirstPrime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/20FirstPrime/obj/Debug/net5.0/20FirstPrime.genruntimeconfig.cache

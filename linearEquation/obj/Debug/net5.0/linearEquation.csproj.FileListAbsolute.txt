@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/bin/Debug/net5.0/linearEquation.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/bin/Debug/net5.0/linearEquation.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/bin/Debug/net5.0/linearEquation.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/bin/Debug/net5.0/linearEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/bin/Debug/net5.0/ref/linearEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/bin/Debug/net5.0/linearEquation.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/ref/linearEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/linearEquation/obj/Debug/net5.0/linearEquation.genruntimeconfig.cache

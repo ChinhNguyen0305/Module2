@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/bin/Debug/net5.0/addingValue.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/bin/Debug/net5.0/addingValue.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/bin/Debug/net5.0/addingValue.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/bin/Debug/net5.0/addingValue.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/bin/Debug/net5.0/ref/addingValue.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/bin/Debug/net5.0/addingValue.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/ref/addingValue.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/addingValue/obj/Debug/net5.0/addingValue.genruntimeconfig.cache

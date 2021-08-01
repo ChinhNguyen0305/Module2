@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/bin/Debug/net5.0/reverse.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/bin/Debug/net5.0/reverse.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/bin/Debug/net5.0/reverse.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/bin/Debug/net5.0/reverse.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/bin/Debug/net5.0/ref/reverse.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/bin/Debug/net5.0/reverse.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/ref/reverse.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/reverse/obj/Debug/net5.0/reverse.genruntimeconfig.cache

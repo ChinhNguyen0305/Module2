@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/bin/Debug/net5.0/minArray.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/bin/Debug/net5.0/minArray.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/bin/Debug/net5.0/minArray.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/bin/Debug/net5.0/minArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/bin/Debug/net5.0/ref/minArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/bin/Debug/net5.0/minArray.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/ref/minArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/minArray/obj/Debug/net5.0/minArray.genruntimeconfig.cache

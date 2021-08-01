@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/bin/Debug/net5.0/array.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/bin/Debug/net5.0/array.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/bin/Debug/net5.0/array.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/bin/Debug/net5.0/array.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/bin/Debug/net5.0/ref/array.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/bin/Debug/net5.0/array.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/ref/array.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/array/obj/Debug/net5.0/array.genruntimeconfig.cache

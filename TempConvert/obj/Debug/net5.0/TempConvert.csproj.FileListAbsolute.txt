@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/bin/Debug/net5.0/TempConvert.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/bin/Debug/net5.0/TempConvert.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/bin/Debug/net5.0/TempConvert.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/bin/Debug/net5.0/TempConvert.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/bin/Debug/net5.0/ref/TempConvert.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/bin/Debug/net5.0/TempConvert.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/ref/TempConvert.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/TempConvert/obj/Debug/net5.0/TempConvert.genruntimeconfig.cache

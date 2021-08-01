@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/bin/Debug/net5.0/BMI.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/bin/Debug/net5.0/BMI.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/bin/Debug/net5.0/BMI.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/bin/Debug/net5.0/BMI.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/bin/Debug/net5.0/ref/BMI.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/bin/Debug/net5.0/BMI.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/ref/BMI.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/BMI/obj/Debug/net5.0/BMI.genruntimeconfig.cache

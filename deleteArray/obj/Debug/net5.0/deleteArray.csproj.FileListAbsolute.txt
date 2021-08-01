@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/bin/Debug/net5.0/deleteArray.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/bin/Debug/net5.0/deleteArray.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/bin/Debug/net5.0/deleteArray.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/bin/Debug/net5.0/deleteArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/bin/Debug/net5.0/ref/deleteArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/bin/Debug/net5.0/deleteArray.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/ref/deleteArray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/deleteArray/obj/Debug/net5.0/deleteArray.genruntimeconfig.cache

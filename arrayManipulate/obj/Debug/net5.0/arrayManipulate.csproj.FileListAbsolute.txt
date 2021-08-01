@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/bin/Debug/net5.0/arrayManipulate.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/bin/Debug/net5.0/arrayManipulate.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/bin/Debug/net5.0/arrayManipulate.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/bin/Debug/net5.0/arrayManipulate.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/bin/Debug/net5.0/ref/arrayManipulate.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/bin/Debug/net5.0/arrayManipulate.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/ref/arrayManipulate.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/arrayManipulate/obj/Debug/net5.0/arrayManipulate.genruntimeconfig.cache

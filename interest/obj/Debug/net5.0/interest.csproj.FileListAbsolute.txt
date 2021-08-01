@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/bin/Debug/net5.0/interest.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/bin/Debug/net5.0/interest.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/bin/Debug/net5.0/interest.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/bin/Debug/net5.0/interest.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/bin/Debug/net5.0/ref/interest.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/bin/Debug/net5.0/interest.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/ref/interest.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/interest/obj/Debug/net5.0/interest.genruntimeconfig.cache

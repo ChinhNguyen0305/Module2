@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/bin/Debug/net5.0/maxarray.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/bin/Debug/net5.0/maxarray.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/bin/Debug/net5.0/maxarray.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/bin/Debug/net5.0/maxarray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/bin/Debug/net5.0/ref/maxarray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/bin/Debug/net5.0/maxarray.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/ref/maxarray.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/maxarray/obj/Debug/net5.0/maxarray.genruntimeconfig.cache

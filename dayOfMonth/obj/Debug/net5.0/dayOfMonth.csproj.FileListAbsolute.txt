@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/bin/Debug/net5.0/dayOfMonth.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/bin/Debug/net5.0/dayOfMonth.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/bin/Debug/net5.0/dayOfMonth.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/bin/Debug/net5.0/dayOfMonth.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/bin/Debug/net5.0/ref/dayOfMonth.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/bin/Debug/net5.0/dayOfMonth.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/ref/dayOfMonth.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/dayOfMonth/obj/Debug/net5.0/dayOfMonth.genruntimeconfig.cache

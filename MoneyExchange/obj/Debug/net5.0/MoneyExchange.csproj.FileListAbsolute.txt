@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/bin/Debug/net5.0/MoneyExchange.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/bin/Debug/net5.0/MoneyExchange.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/bin/Debug/net5.0/MoneyExchange.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/bin/Debug/net5.0/MoneyExchange.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/bin/Debug/net5.0/ref/MoneyExchange.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/bin/Debug/net5.0/MoneyExchange.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/ref/MoneyExchange.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MoneyExchange/obj/Debug/net5.0/MoneyExchange.genruntimeconfig.cache
