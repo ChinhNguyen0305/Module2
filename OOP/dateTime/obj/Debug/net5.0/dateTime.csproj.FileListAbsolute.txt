@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/bin/Debug/net5.0/dateTime.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/bin/Debug/net5.0/dateTime.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/bin/Debug/net5.0/dateTime.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/bin/Debug/net5.0/dateTime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/bin/Debug/net5.0/ref/dateTime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/bin/Debug/net5.0/dateTime.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/ref/dateTime.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/dateTime/obj/Debug/net5.0/dateTime.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/bin/Debug/net5.0/QuadraticEquation.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/bin/Debug/net5.0/QuadraticEquation.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/bin/Debug/net5.0/QuadraticEquation.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/bin/Debug/net5.0/QuadraticEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/bin/Debug/net5.0/ref/QuadraticEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/bin/Debug/net5.0/QuadraticEquation.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/ref/QuadraticEquation.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/QuadraticEquation/obj/Debug/net5.0/QuadraticEquation.genruntimeconfig.cache

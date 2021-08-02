@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/bin/Debug/net5.0/stopwatch.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/bin/Debug/net5.0/stopwatch.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/bin/Debug/net5.0/stopwatch.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/bin/Debug/net5.0/stopwatch.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/bin/Debug/net5.0/ref/stopwatch.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/bin/Debug/net5.0/stopwatch.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/ref/stopwatch.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/stopwatch/obj/Debug/net5.0/stopwatch.genruntimeconfig.cache

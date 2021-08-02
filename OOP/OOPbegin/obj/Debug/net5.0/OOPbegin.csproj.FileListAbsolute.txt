@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/bin/Debug/net5.0/OOPbegin.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/bin/Debug/net5.0/OOPbegin.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/bin/Debug/net5.0/OOPbegin.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/bin/Debug/net5.0/OOPbegin.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/bin/Debug/net5.0/ref/OOPbegin.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/bin/Debug/net5.0/OOPbegin.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/ref/OOPbegin.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/OOPbegin/obj/Debug/net5.0/OOPbegin.genruntimeconfig.cache
