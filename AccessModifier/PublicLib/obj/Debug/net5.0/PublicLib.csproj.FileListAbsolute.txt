@@ -1,0 +1,12 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/bin/Debug/net5.0/PublicLib.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/bin/Debug/net5.0/PublicLib.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/bin/Debug/net5.0/ref/PublicLib.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/bin/Debug/net5.0/PublicLib.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/PublicLib.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/PublicLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/PublicLib.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/PublicLib.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/PublicLib.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/PublicLib.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/ref/PublicLib.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/AccessModifier/PublicLib/obj/Debug/net5.0/PublicLib.pdb

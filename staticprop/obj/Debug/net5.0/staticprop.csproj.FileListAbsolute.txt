@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/bin/Debug/net5.0/staticprop.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/bin/Debug/net5.0/staticprop.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/bin/Debug/net5.0/staticprop.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/bin/Debug/net5.0/staticprop.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/bin/Debug/net5.0/ref/staticprop.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/bin/Debug/net5.0/staticprop.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/ref/staticprop.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticprop/obj/Debug/net5.0/staticprop.genruntimeconfig.cache
