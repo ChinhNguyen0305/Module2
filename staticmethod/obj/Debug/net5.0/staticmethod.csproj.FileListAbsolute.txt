@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/bin/Debug/net5.0/staticmethod.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/bin/Debug/net5.0/staticmethod.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/bin/Debug/net5.0/staticmethod.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/bin/Debug/net5.0/staticmethod.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/bin/Debug/net5.0/ref/staticmethod.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/bin/Debug/net5.0/staticmethod.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/ref/staticmethod.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/staticmethod/obj/Debug/net5.0/staticmethod.genruntimeconfig.cache

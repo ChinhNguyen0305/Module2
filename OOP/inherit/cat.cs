@@ -7,8 +7,8 @@ namespace inherit
             HasClaw = HC;
 
         }
-        public override void info() {
-            System.Console.WriteLine($"{base.ToString()}, Does it has claw? {HasClaw}");
+        public override string info() {
+            return $"{base.info()}, does it have claw? {HasClaw}";
         } 
         
     }

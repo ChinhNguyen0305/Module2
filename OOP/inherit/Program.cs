@@ -9,7 +9,7 @@ namespace inherit
             Cat heo = new Cat("heo",20,4,true);
             heo.info();
             string b = heo.HasClaw? "Yes" : "No";
-            System.Console.WriteLine(b);
+            System.Console.WriteLine(heo.info());
 
         }
 

@@ -15,9 +15,9 @@ namespace inherit
             Weight = weight;
             Legs = legs;
         }
-         public virtual void info()
+         public virtual string info()
         {
-            System.Console.WriteLine($"Weight = {this.Weight} Height = {Height} legs: {Legs}");
+            return $"Name : {this.Name} Weight = {Weight} legs: {Legs}";
         }
 
   
