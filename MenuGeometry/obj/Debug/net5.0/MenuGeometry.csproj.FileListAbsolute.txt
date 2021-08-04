@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/bin/Debug/net5.0/MenuGeometry.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/bin/Debug/net5.0/MenuGeometry.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/bin/Debug/net5.0/MenuGeometry.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/bin/Debug/net5.0/MenuGeometry.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/bin/Debug/net5.0/ref/MenuGeometry.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/bin/Debug/net5.0/MenuGeometry.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/ref/MenuGeometry.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MenuGeometry/obj/Debug/net5.0/MenuGeometry.genruntimeconfig.cache

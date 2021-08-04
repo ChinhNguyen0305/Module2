@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/bin/Debug/net5.0/inherit.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/bin/Debug/net5.0/inherit.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/bin/Debug/net5.0/inherit.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/bin/Debug/net5.0/inherit.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/bin/Debug/net5.0/ref/inherit.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/bin/Debug/net5.0/inherit.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/ref/inherit.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/OOP/inherit/obj/Debug/net5.0/inherit.genruntimeconfig.cache

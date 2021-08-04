@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/bin/Debug/net5.0/myupgradeMenu.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/bin/Debug/net5.0/myupgradeMenu.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/bin/Debug/net5.0/myupgradeMenu.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/bin/Debug/net5.0/myupgradeMenu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/bin/Debug/net5.0/ref/myupgradeMenu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/bin/Debug/net5.0/myupgradeMenu.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/ref/myupgradeMenu.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/myupgradeMenu/obj/Debug/net5.0/myupgradeMenu.genruntimeconfig.cache

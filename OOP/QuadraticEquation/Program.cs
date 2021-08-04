@@ -13,6 +13,8 @@ namespace QuadraticEquation
             // System.Console.WriteLine(x2);
             FirstQuadratic.ShowResult();
             System.Console.WriteLine(FirstQuadratic.getB);
+            
+            
 
         }
 
