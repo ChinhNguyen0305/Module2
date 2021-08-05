@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/bin/Debug/net5.0/MyAnimal.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/bin/Debug/net5.0/MyAnimal.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/bin/Debug/net5.0/MyAnimal.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/bin/Debug/net5.0/MyAnimal.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/bin/Debug/net5.0/ref/MyAnimal.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/bin/Debug/net5.0/MyAnimal.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/ref/MyAnimal.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MyAnimal/obj/Debug/net5.0/MyAnimal.genruntimeconfig.cache

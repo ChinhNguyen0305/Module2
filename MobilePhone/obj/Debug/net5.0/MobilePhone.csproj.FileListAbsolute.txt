@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/bin/Debug/net5.0/MobilePhone.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/bin/Debug/net5.0/MobilePhone.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/bin/Debug/net5.0/MobilePhone.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/bin/Debug/net5.0/MobilePhone.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/bin/Debug/net5.0/ref/MobilePhone.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/bin/Debug/net5.0/MobilePhone.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/ref/MobilePhone.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/MobilePhone/obj/Debug/net5.0/MobilePhone.genruntimeconfig.cache

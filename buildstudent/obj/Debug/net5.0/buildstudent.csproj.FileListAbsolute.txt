@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/bin/Debug/net5.0/buildstudent.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/bin/Debug/net5.0/buildstudent.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/bin/Debug/net5.0/buildstudent.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/bin/Debug/net5.0/buildstudent.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/bin/Debug/net5.0/ref/buildstudent.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/bin/Debug/net5.0/buildstudent.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/ref/buildstudent.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/buildstudent/obj/Debug/net5.0/buildstudent.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/bin/Debug/net5.0/Quadratic.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/bin/Debug/net5.0/Quadratic.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/bin/Debug/net5.0/Quadratic.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/bin/Debug/net5.0/Quadratic.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/bin/Debug/net5.0/ref/Quadratic.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/bin/Debug/net5.0/Quadratic.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/ref/Quadratic.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/Quadratic/obj/Debug/net5.0/Quadratic.genruntimeconfig.cache
