@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/bin/Debug/net5.0/shape.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/bin/Debug/net5.0/shape.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/bin/Debug/net5.0/shape.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/bin/Debug/net5.0/shape.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/bin/Debug/net5.0/ref/shape.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/bin/Debug/net5.0/shape.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/ref/shape.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/shape/obj/Debug/net5.0/shape.genruntimeconfig.cache

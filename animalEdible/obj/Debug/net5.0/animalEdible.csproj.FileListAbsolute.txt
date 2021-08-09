@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/bin/Debug/net5.0/animalEdible.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/bin/Debug/net5.0/animalEdible.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/bin/Debug/net5.0/animalEdible.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/bin/Debug/net5.0/animalEdible.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/bin/Debug/net5.0/ref/animalEdible.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/bin/Debug/net5.0/animalEdible.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/ref/animalEdible.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/animalEdible/obj/Debug/net5.0/animalEdible.genruntimeconfig.cache

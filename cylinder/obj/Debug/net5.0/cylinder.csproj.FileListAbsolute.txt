@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/bin/Debug/net5.0/cylinder.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/bin/Debug/net5.0/cylinder.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/bin/Debug/net5.0/cylinder.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/bin/Debug/net5.0/cylinder.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/bin/Debug/net5.0/ref/cylinder.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/bin/Debug/net5.0/cylinder.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/ref/cylinder.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/cylinder/obj/Debug/net5.0/cylinder.genruntimeconfig.cache

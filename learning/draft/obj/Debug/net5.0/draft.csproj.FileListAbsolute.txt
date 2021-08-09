@@ -1,0 +1,5 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/draft/obj/Debug/net5.0/draft.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/draft/obj/Debug/net5.0/draft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/draft/obj/Debug/net5.0/draft.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/draft/obj/Debug/net5.0/draft.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/learning/draft/obj/Debug/net5.0/draft.csproj.CoreCompileInputs.cache
