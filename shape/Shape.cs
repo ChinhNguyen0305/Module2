@@ -1,8 +1,8 @@
 namespace shape
 {
     public class Shape
-    {   string Color {get;set;}
-        bool Filled {get;set;}
+    {   private string Color {get;set;}
+        private  bool Filled {get;set;}
         public Shape()
         {
             Color = "green";

@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/bin/Debug/net5.0/Simplelist.deps.json
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/bin/Debug/net5.0/Simplelist.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/bin/Debug/net5.0/Simplelist.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/bin/Debug/net5.0/Simplelist.dll
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/bin/Debug/net5.0/ref/Simplelist.dll
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/bin/Debug/net5.0/Simplelist.pdb
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.dll
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/ref/Simplelist.dll
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.pdb
+/Users/vohuunhatduc/Desktop/DataStructure/Simplelist/obj/Debug/net5.0/Simplelist.genruntimeconfig.cache

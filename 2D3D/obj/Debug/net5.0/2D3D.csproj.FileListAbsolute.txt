@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/bin/Debug/net5.0/2D3D.deps.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/bin/Debug/net5.0/2D3D.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/bin/Debug/net5.0/2D3D.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/bin/Debug/net5.0/2D3D.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/bin/Debug/net5.0/ref/2D3D.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/bin/Debug/net5.0/2D3D.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/ref/2D3D.dll
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.pdb
+/Users/vohuunhatduc/Desktop/Module2/Module2/2D3D/obj/Debug/net5.0/2D3D.genruntimeconfig.cache

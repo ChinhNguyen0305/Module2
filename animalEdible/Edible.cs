@@ -2,6 +2,6 @@ namespace animalEdible
 {
     public interface Edible
     {
-    public string HowToEat();
+     string HowToEat();
     }
 }
